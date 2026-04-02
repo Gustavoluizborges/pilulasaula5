@@ -15,3 +15,4 @@ def menu():
             print(f'Média é {(n1 + n2)/2}')
         else:
             print('Opção invalida')
+menu()
